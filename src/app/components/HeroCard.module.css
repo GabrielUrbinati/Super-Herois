@@ -1,0 +1,34 @@
+.heroCard {
+    width: 200px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    text-align: center;
+    background: #f9f9f9;
+  }
+  
+  .heroImage {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .heroName {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .intelligenceBar {
+    display: block;
+    height: 8px;
+    background-color: #f9b32f;
+    margin-top: 5px;
+  }
+  
+  .strengthBar {
+    display: block;
+    height: 8px;
+    background-color: #ff7c6c;
+    margin-top: 5px;
+  }
+  
